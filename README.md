@@ -4,8 +4,9 @@
 ------
 ### Información personal:
 ~~~
-Tengo 20 años, actualmente este es mi segundo año y espero no morir como el 
-año pasado
+Tengo 20 años 
+Mi número de legajo es: 208.805-8
+Este es mi segundo año y espero no morir como el año pasado
 Mi número de legajo es: 208.805-8
 Me gusta hacer medialunas y pastelitos de membrillo, aguante el membrillo!
 ~~~
