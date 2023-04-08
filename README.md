@@ -7,9 +7,9 @@
 Tengo 20 años, actualmente este es mi segundo año y espero no morir como el 
 año pasado
 Mi número de legajo es: 208.805-8
-Le perdi el gusto a los juegos 
+Me gusta hacer medialunas y pastelitos de membrillo, aguante el membrillo!
 ~~~
 ### Más sobre mí: 
 ~~~
-Empeze a hacer calistenia en casa hace unas semanas veo avances considerables
+Empecé a hacer calistenia en casa hace unas semanas veo avances considerables
 ~~~
