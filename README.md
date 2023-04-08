@@ -1,6 +1,6 @@
 # Hola, soy Roger Ramos 
 
-![](https://github.com/RogerRamosAl/fija/blob/55c238010a99b1034702fa148c77a67f3ea6874d/Para%20gitijipijpg.jpg)
+![](https://github.com/pdepjm/2023-tp0-presentacion-RogerRamosAl/blob/903988ff9a82add2080cb8d065aabc57448be88e/foto.jpg)
 ------
 ### Información personal:
 ~~~
